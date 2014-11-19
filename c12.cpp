@@ -37,7 +37,7 @@ istream& operator>>(istream& is,integer& ib)
 }
 int main()
 {
-
+    //test
 	stringstream input("1 2 3 4 5");
 	integer I;
 	input>>I;
